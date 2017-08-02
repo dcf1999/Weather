@@ -2,7 +2,10 @@
  *  Severe Weather Alert
  *
  *  Author: SmartThings
+ *  Modified: justinlhudson
  *  Modified: David Fenstermaker
+ *
+ * Added option to execute routines if triggered
  */
 
 // getWeatherFeature: http://www.wunderground.com/weather/api/d/docs?
