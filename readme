@@ -1,2 +1,4 @@
 # Weather
 Weather Apps
+
+This is a modification of the Smartthings Weather Alert app. It allows you to select a routine to execute if a weather event triggers. 
